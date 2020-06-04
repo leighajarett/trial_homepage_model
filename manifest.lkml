@@ -5,7 +5,12 @@ project_name: "trial_homepage"
 #
 
 
+# application: trial_homepage_extenstion{
+#   label: "Trial Homepage"
+#   url: "http://localhost:8080/bundle.js"
+# }
+
 application: trial_homepage_extenstion{
   label: "Trial Homepage"
-  url: "http://localhost:8080/bundle.js"
+  url: "/bundle.js"
 }
